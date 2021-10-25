@@ -5,7 +5,7 @@
 My name is **Avijeet Diwaker** and I'm a software developer.
 I currently work on backend development for web applications and PaaS platform tools. I specialize in Python and have professional experience working with Django and Typescript. I'm also looking to learn more about NLP technologies. I intend to use this as more or less a place to record any side projects that I'm working on. Take a look at my work or get in touch! 
 
-🌱 I’m currently learning ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB), ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white) and  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB).
+🌱 I’m currently learning Golang.
 
 👯 I’m looking to collaborate on Issues with new technologies like Microsoft Dapr, and more.
 
