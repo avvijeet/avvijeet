@@ -5,7 +5,6 @@
 My name is **Avijeet Diwaker** and I'm a Senior Software Engineer with 5+ years of experience in building scalable backend solutions. I currently work at Skit.ai on web applications, PaaS tools, and have led multiple cross-functional engineering teams. I specialize in Python-Django and Golang, and I am well-versed in cloud services and containerization with a keen interest in NLP and cutting-edge technologies. 
 
 ### Professional Snapshot
-- 💼 **Currently working** at Skit.ai
 - 🎯 **Core Expertise**: Python, Django, Golang, Flask, FastAPI, Docker, Kubernetes, AWS, Redis
 - 🌱 **Learning**: Golang and exploring NLP technologies
 - 👯 **Collaborating on**: Projects involving Microsoft Dapr, Kubernetes, and other modern tech.
